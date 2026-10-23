@@ -1,42 +1,13 @@
 {
-  "japanese-traditional": {
-    "name": "Japanese Traditional",
-    "tag": "Irezumi-inspired compositions",
-    "desc": "Large-scale compositions featuring bold outlines, flowing backgrounds, and recurring motifs such as dragons, koi, flowers, and waves. Traditional Japanese tattooing has a rich history and many distinct conventions.",
-    "traits": ["Flowing compositions", "Bold linework", "Mythic and natural motifs"],
-    "cover": "assets/japanese-traditional-26.webp",
-    "images": [
-      {
-        "src": "assets/japanese-traditional-7.webp",
-        "alt": "Japanese Traditional tattoo example 2"
-      },
-      {
-        "src": "assets/japanese-traditional-10.webp",
-        "alt": "Japanese Traditional tattoo example 3"
-      },
-      {
-        "src": "assets/japanese-traditional-20.webp",
-        "alt": "Japanese Traditional tattoo example 4"
-      },
-      {
-        "src": "assets/japanese-traditional-26.webp",
-        "alt": "Japanese Traditional tattoo example 5"
-      },
-      {
-        "src": "assets/japanese-traditional-28.webp",
-        "alt": "Japanese Traditional tattoo example 6"
-      },
-      {
-        "src": "assets/japanese-traditional-51.webp",
-        "alt": "Japanese Traditional tattoo example 7"
-      }
-    ]
-  },
   "old-school": {
     "name": "Old School",
     "tag": "American Traditional",
     "desc": "A classic style known for strong black outlines, simple readable shapes, limited saturated colors, and enduring motifs such as roses, swallows, anchors, and daggers.",
-    "traits": ["Heavy outlines", "Limited palette", "Iconic motifs"],
+    "traits": [
+      "Heavy outlines",
+      "Limited palette",
+      "Iconic motifs"
+    ],
     "cover": "assets/old-school-32.webp",
     "images": [
       {
@@ -69,7 +40,11 @@
     "name": "New School",
     "tag": "Exaggerated and playful",
     "desc": "A vivid, cartoon-influenced approach with exaggerated proportions, energetic movement, and imaginative characters. Designs often use bright colors and expressive forms.",
-    "traits": ["Exaggerated forms", "Vibrant colors", "Cartoon influence"],
+    "traits": [
+      "Exaggerated forms",
+      "Vibrant colors",
+      "Cartoon influence"
+    ],
     "cover": "assets/new-school-14.webp",
     "images": [
       {
@@ -102,11 +77,52 @@
       }
     ]
   },
+  "japanese-traditional": {
+    "name": "Japanese Traditional",
+    "tag": "Irezumi-inspired compositions",
+    "desc": "Large-scale compositions featuring bold outlines, flowing backgrounds, and recurring motifs such as dragons, koi, flowers, and waves. Traditional Japanese tattooing has a rich history and many distinct conventions.",
+    "traits": [
+      "Flowing compositions",
+      "Bold linework",
+      "Mythic and natural motifs"
+    ],
+    "cover": "assets/japanese-traditional-26.webp",
+    "images": [
+      {
+        "src": "assets/japanese-traditional-7.webp",
+        "alt": "Japanese Traditional tattoo example 2"
+      },
+      {
+        "src": "assets/japanese-traditional-10.webp",
+        "alt": "Japanese Traditional tattoo example 3"
+      },
+      {
+        "src": "assets/japanese-traditional-20.webp",
+        "alt": "Japanese Traditional tattoo example 4"
+      },
+      {
+        "src": "assets/japanese-traditional-26.webp",
+        "alt": "Japanese Traditional tattoo example 5"
+      },
+      {
+        "src": "assets/japanese-traditional-28.webp",
+        "alt": "Japanese Traditional tattoo example 6"
+      },
+      {
+        "src": "assets/japanese-traditional-51.webp",
+        "alt": "Japanese Traditional tattoo example 7"
+      }
+    ]
+  },
   "neo-traditional": {
     "name": "Neo Traditional",
     "tag": "Classic roots, modern detail",
     "desc": "Builds on traditional tattoo fundamentals with a broader palette, decorative detail, varied line weights, and more dimensional shading. Flowers, animals, and portraits are common subjects.",
-    "traits": ["Varied line weight", "Decorative detail", "Rich color"],
+    "traits": [
+      "Varied line weight",
+      "Decorative detail",
+      "Rich color"
+    ],
     "cover": "assets/neo-traditional-4.webp",
     "images": [
       {
@@ -151,7 +167,11 @@
     "name": "Realism",
     "tag": "Portraiture and lifelike detail",
     "desc": "Aims for a convincing depiction of real-world subjects using subtle tonal transitions, depth, texture, and light. It often appears in black-and-grey portraiture and animal studies.",
-    "traits": ["Detailed shading", "Lifelike texture", "Light and depth"],
+    "traits": [
+      "Detailed shading",
+      "Lifelike texture",
+      "Light and depth"
+    ],
     "cover": "assets/realism-24.webp",
     "images": [
       {
@@ -192,7 +212,11 @@
     "name": "Sacred Geometry",
     "tag": "Symmetry, rhythm, pattern",
     "desc": "Uses repeated geometric forms, mandala-like structures, symmetry, and precise pattern work. Some examples overlap with ornamental, dotwork, and blackwork traditions.",
-    "traits": ["Repeating patterns", "Symmetry", "Negative space"],
+    "traits": [
+      "Repeating patterns",
+      "Symmetry",
+      "Negative space"
+    ],
     "cover": "assets/sacred-geometry-42.webp",
     "images": [
       {
