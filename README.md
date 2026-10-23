@@ -56,3 +56,5 @@ GitHub repository file pages show source code. To view the website, use a local 
 - `assets/new-school-creature-subtitle-removed.png`: subtitle removed with AI assistance; previously obscured details reconstructed. Original retained as `assets/new-school-41.webp`.
 
 - `assets/new-school-anime-fox-mask-cleaned.png`: user-supplied reference with subtitle removed using AI assistance; obscured details reconstructed.
+
+- Sacred Geometry references 5, 25, 16, 17, and 33 use separate `-subtitle-removed.png` versions edited with AI assistance. Obscured details were reconstructed; original WebP files are retained.
