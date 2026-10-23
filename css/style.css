@@ -1,11 +1,12 @@
-/* Change these colors to personalize the whole website. */
+/* Requested palette: ivory, pale yellow, tan, and warm brown.
+   A deeper brown keeps small text readable on yellow and tan surfaces. */
 :root {
-  --cream: #f7f1e6;
-  --paper: #fffcf5;
-  --ink: #39392f;
-  --muted: #706c60;
-  --line: #dcd3c3;
-  --accent: #7b493c;
+  --cream: #ffffe1;
+  --paper: #fff7ab;
+  --ink: #4f3727;
+  --muted: #4f3727;
+  --line: #cfb59a;
+  --accent: #9f6e4e;
 }
 
 * {
@@ -138,7 +139,7 @@ em {
   right: 12px;
   top: 75px;
   font-size: 100px;
-  color: #b1ad91;
+  color: #cfb59a;
   transform: rotate(12deg);
 }
 
@@ -198,12 +199,12 @@ h2 {
   letter-spacing: 1.3px;
 }
 
-.tone-1 { background: #e5d4c5; }
-.tone-2 { background: #d9ddc9; }
-.tone-3 { background: #ead7c5; }
-.tone-4 { background: #ddd0c6; }
-.tone-5 { background: #d8d8d0; }
-.tone-6 { background: #e7dfc6; }
+.tone-1 { background: #cfb59a; }
+.tone-2 { background: #fff7ab; }
+.tone-3 { background: #cfb59a; }
+.tone-4 { background: #fff7ab; }
+.tone-5 { background: #cfb59a; }
+.tone-6 { background: #fff7ab; }
 
 .card-heading {
   display: flex;

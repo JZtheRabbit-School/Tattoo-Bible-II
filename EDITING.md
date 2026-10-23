@@ -4,7 +4,7 @@
 Open `index.html` for the homepage, or the matching file under `styles/` for a style page. The visible words live directly in HTML.
 
 ## 2. Change the creamy background
-At the top of `css/style.css`, change `--cream: #f7f1e6;`.
+At the top of `css/style.css`, change `--cream: #ffffe1;`.
 
 ## 3. Add an approved picture
 1. Put the picture in the correct folder, for example `images/new-school/cartoon-dragon.jpg`.
