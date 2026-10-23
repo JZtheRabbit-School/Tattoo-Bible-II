@@ -23,10 +23,6 @@
         "alt": "Old School tattoo example 3"
       },
       {
-        "src": "assets/old-school-23.webp",
-        "alt": "Old School tattoo example 4"
-      },
-      {
         "src": "assets/old-school-36.webp",
         "alt": "Old School tattoo example 5"
       },
@@ -111,6 +107,10 @@
       {
         "src": "assets/japanese-traditional-51.webp",
         "alt": "Japanese Traditional tattoo example 7"
+      },
+      {
+        "src": "assets/old-school-23.webp",
+        "alt": "Japanese Traditional chest and sleeve tattoos with flowers"
       }
     ]
   },
