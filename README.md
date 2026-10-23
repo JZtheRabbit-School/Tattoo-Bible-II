@@ -4,6 +4,10 @@ A cream-colored visual notebook with six tattoo styles. Built with plain, indent
 
 ## Open the website
 
+Live website: https://jztherabbit-school.github.io/Tattoo-Bible-II/
+
+Repository: https://github.com/JZtheRabbit-School/Tattoo-Bible-II
+
 Double-click **index.html** after downloading the repository, or use the GitHub Pages website link once enabled. GitHub file pages show source code, not the rendered website.
 
 ## File map
