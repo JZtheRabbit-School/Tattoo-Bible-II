@@ -52,3 +52,5 @@ The website background is `#EFF1C5`, defined by `--paper` in `css/style.css`.
 GitHub repository file pages show source code. To view the website, use a local HTTP server or a deployed GitHub Pages link. Double-clicking `index.html` may prevent the JSON galleries from loading.
 
 - `assets/old-school-panther-and-moth-sleeve-cleaned.png`: user-supplied reference edited with AI assistance to remove a subtitle; obscured details were reconstructed.
+
+- `assets/new-school-creature-subtitle-removed.png`: subtitle removed with AI assistance; previously obscured details reconstructed. Original retained as `assets/new-school-41.webp`.
