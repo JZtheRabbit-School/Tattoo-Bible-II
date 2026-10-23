@@ -54,3 +54,5 @@ GitHub repository file pages show source code. To view the website, use a local 
 - `assets/old-school-panther-and-moth-sleeve-cleaned.png`: user-supplied reference edited with AI assistance to remove a subtitle; obscured details were reconstructed.
 
 - `assets/new-school-creature-subtitle-removed.png`: subtitle removed with AI assistance; previously obscured details reconstructed. Original retained as `assets/new-school-41.webp`.
+
+- `assets/new-school-anime-fox-mask-cleaned.png`: user-supplied reference with subtitle removed using AI assistance; obscured details reconstructed.
