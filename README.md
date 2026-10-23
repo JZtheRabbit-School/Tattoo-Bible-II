@@ -1,22 +1,52 @@
-# Tattoo Bible — fresh prototype
+# Tattoo Bible — Website Prototype
 
-A cream-colored visual notebook with six tattoo styles. Built with plain, indented HTML, CSS, and JavaScript. No build tools or installation required.
+A minimal responsive HTML/CSS/JavaScript gallery of six tattoo styles.
 
-## Open the website
+## Live website
 
-Live website: https://jztherabbit-school.github.io/Tattoo-Bible-II/
+https://jztherabbit-school.github.io/Tattoo-Bible-II/
 
-Repository: https://github.com/JZtheRabbit-School/Tattoo-Bible-II
+## Run locally
 
-Double-click **index.html** after downloading the repository, or use the GitHub Pages website link once enabled. GitHub file pages show source code, not the rendered website.
+The website loads `data/styles.json` with `fetch`, so open it through a local HTTP server rather than by double-clicking `index.html`:
 
-## File map
+```bash
+cd tattoo-bible-prototype
+python -m http.server 8001
+```
 
-- `index.html` — homepage text and six style links.
-- `styles/*.html` — a separate editable HTML page for each style.
-- `css/style.css` — all colors, typography, spacing, and responsive layouts.
-- `js/main.js` — optional navigation enhancement; no hidden page content.
-- `images/<style>/` — clearly separated image folders, initially empty.
-- `EDITING.md` — how to add, move, and reorder pictures.
+Then visit http://localhost:8001. You can also host this folder on GitHub Pages.
 
-The old prototype's pictures have deliberately not been reused. Each gallery has an explicit empty state while references are selected again.
+## Project files
+
+- `index.html`: main HTML document.
+- `AGENTS.md`: instructions for coding agents (the standard filename is plural).
+- `README.md`: setup and editing guide.
+
+HTML, CSS, JavaScript, and JSON use two-space indentation.
+The website background is `#EFF1C5`, defined by `--paper` in `css/style.css`.
+
+## Edit content
+
+- `data/styles.json`: names, descriptions, traits, image paths, and selected cover photos.
+- `assets/`: locally optimized WebP versions of the supplied images.
+- `css/style.css`: layout and visual design.
+- `js/app.js`: navigation, cards, galleries, and lightbox.
+
+## Notes
+
+- The Sacred Geometry homepage cover is an AI recreation of the selected leg-tattoo photo with no subtitles; the original subtitled reference remains in its gallery.
+- Image credits and permission status should be reviewed before public deployment.
+- Some style selections were mapped to the closest matching files available in the current project; verify cover images during review.
+- Google Fonts are optional; fallback fonts work offline.
+
+## Current image corrections
+
+- The cartoon dragon is in New School. Its original asset filename is retained so existing references remain valid.
+- The snake-and-flower image is in Neo Traditional. Its original asset filename is retained.
+- Japanese Traditional uses `assets/japanese-traditional-26.webp` as its cover.
+- Gallery placement and order come from `data/styles.json`, not the asset filenames.
+
+## Preview versus source code
+
+GitHub repository file pages show source code. To view the website, use a local HTTP server or a deployed GitHub Pages link. Double-clicking `index.html` may prevent the JSON galleries from loading.

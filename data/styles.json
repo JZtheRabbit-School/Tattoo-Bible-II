@@ -1,0 +1,236 @@
+{
+  "japanese-traditional": {
+    "name": "Japanese Traditional",
+    "tag": "Irezumi-inspired compositions",
+    "desc": "Large-scale compositions featuring bold outlines, flowing backgrounds, and recurring motifs such as dragons, koi, flowers, and waves. Traditional Japanese tattooing has a rich history and many distinct conventions.",
+    "traits": ["Flowing compositions", "Bold linework", "Mythic and natural motifs"],
+    "cover": "assets/japanese-traditional-26.webp",
+    "images": [
+      {
+        "src": "assets/japanese-traditional-7.webp",
+        "alt": "Japanese Traditional tattoo example 2"
+      },
+      {
+        "src": "assets/japanese-traditional-10.webp",
+        "alt": "Japanese Traditional tattoo example 3"
+      },
+      {
+        "src": "assets/japanese-traditional-20.webp",
+        "alt": "Japanese Traditional tattoo example 4"
+      },
+      {
+        "src": "assets/japanese-traditional-26.webp",
+        "alt": "Japanese Traditional tattoo example 5"
+      },
+      {
+        "src": "assets/japanese-traditional-28.webp",
+        "alt": "Japanese Traditional tattoo example 6"
+      },
+      {
+        "src": "assets/japanese-traditional-51.webp",
+        "alt": "Japanese Traditional tattoo example 7"
+      }
+    ]
+  },
+  "old-school": {
+    "name": "Old School",
+    "tag": "American Traditional",
+    "desc": "A classic style known for strong black outlines, simple readable shapes, limited saturated colors, and enduring motifs such as roses, swallows, anchors, and daggers.",
+    "traits": ["Heavy outlines", "Limited palette", "Iconic motifs"],
+    "cover": "assets/old-school-32.webp",
+    "images": [
+      {
+        "src": "assets/old-school-32.webp",
+        "alt": "Old School tattoo example 1"
+      },
+      {
+        "src": "assets/old-school-13.webp",
+        "alt": "Old School tattoo example 2"
+      },
+      {
+        "src": "assets/old-school-18.webp",
+        "alt": "Old School tattoo example 3"
+      },
+      {
+        "src": "assets/old-school-23.webp",
+        "alt": "Old School tattoo example 4"
+      },
+      {
+        "src": "assets/old-school-36.webp",
+        "alt": "Old School tattoo example 5"
+      },
+      {
+        "src": "assets/old-school-37.webp",
+        "alt": "Old School tattoo example 6"
+      }
+    ]
+  },
+  "new-school": {
+    "name": "New School",
+    "tag": "Exaggerated and playful",
+    "desc": "A vivid, cartoon-influenced approach with exaggerated proportions, energetic movement, and imaginative characters. Designs often use bright colors and expressive forms.",
+    "traits": ["Exaggerated forms", "Vibrant colors", "Cartoon influence"],
+    "cover": "assets/new-school-14.webp",
+    "images": [
+      {
+        "src": "assets/new-school-14.webp",
+        "alt": "New School tattoo example 1"
+      },
+      {
+        "src": "assets/new-school-11.webp",
+        "alt": "New School tattoo example 2"
+      },
+      {
+        "src": "assets/new-school-29.webp",
+        "alt": "New School tattoo example 3"
+      },
+      {
+        "src": "assets/new-school-41.webp",
+        "alt": "New School tattoo example 5"
+      },
+      {
+        "src": "assets/new-school-8.webp",
+        "alt": "New School tattoo example 6"
+      },
+      {
+        "src": "assets/new-school-3.webp",
+        "alt": "New School tattoo example 7"
+      },
+      {
+        "src": "assets/japanese-traditional-6.webp",
+        "alt": "New School colorful cartoon dragon tattoo"
+      }
+    ]
+  },
+  "neo-traditional": {
+    "name": "Neo Traditional",
+    "tag": "Classic roots, modern detail",
+    "desc": "Builds on traditional tattoo fundamentals with a broader palette, decorative detail, varied line weights, and more dimensional shading. Flowers, animals, and portraits are common subjects.",
+    "traits": ["Varied line weight", "Decorative detail", "Rich color"],
+    "cover": "assets/neo-traditional-4.webp",
+    "images": [
+      {
+        "src": "assets/neo-traditional-4.webp",
+        "alt": "Neo Traditional tattoo example 1"
+      },
+      {
+        "src": "assets/neo-traditional-0.webp",
+        "alt": "Neo Traditional tattoo example 2"
+      },
+      {
+        "src": "assets/neo-traditional-38.webp",
+        "alt": "Neo Traditional tattoo example 3"
+      },
+      {
+        "src": "assets/neo-traditional-46.webp",
+        "alt": "Neo Traditional tattoo example 4"
+      },
+      {
+        "src": "assets/neo-traditional-47.webp",
+        "alt": "Neo Traditional tattoo example 5"
+      },
+      {
+        "src": "assets/neo-traditional-50.webp",
+        "alt": "Neo Traditional tattoo example 6"
+      },
+      {
+        "src": "assets/neo-traditional-40.webp",
+        "alt": "Neo Traditional tattoo example 7"
+      },
+      {
+        "src": "assets/neo-traditional-45.webp",
+        "alt": "Neo Traditional tattoo example 8"
+      },
+      {
+        "src": "assets/new-school-35.webp",
+        "alt": "Neo Traditional snake and flower tattoo"
+      }
+    ]
+  },
+  "realism": {
+    "name": "Realism",
+    "tag": "Portraiture and lifelike detail",
+    "desc": "Aims for a convincing depiction of real-world subjects using subtle tonal transitions, depth, texture, and light. It often appears in black-and-grey portraiture and animal studies.",
+    "traits": ["Detailed shading", "Lifelike texture", "Light and depth"],
+    "cover": "assets/realism-24.webp",
+    "images": [
+      {
+        "src": "assets/realism-24.webp",
+        "alt": "Realism tattoo example 1"
+      },
+      {
+        "src": "assets/realism-48.webp",
+        "alt": "Realism tattoo example 2"
+      },
+      {
+        "src": "assets/realism-1.webp",
+        "alt": "Realism tattoo example 3"
+      },
+      {
+        "src": "assets/realism-22.webp",
+        "alt": "Realism tattoo example 4"
+      },
+      {
+        "src": "assets/realism-31.webp",
+        "alt": "Realism tattoo example 5"
+      },
+      {
+        "src": "assets/realism-9.webp",
+        "alt": "Realism tattoo example 6"
+      },
+      {
+        "src": "assets/realism-39.webp",
+        "alt": "Realism tattoo example 7"
+      },
+      {
+        "src": "assets/realism-21.webp",
+        "alt": "Realism tattoo example 8"
+      }
+    ]
+  },
+  "sacred-geometry": {
+    "name": "Sacred Geometry",
+    "tag": "Symmetry, rhythm, pattern",
+    "desc": "Uses repeated geometric forms, mandala-like structures, symmetry, and precise pattern work. Some examples overlap with ornamental, dotwork, and blackwork traditions.",
+    "traits": ["Repeating patterns", "Symmetry", "Negative space"],
+    "cover": "assets/sacred-geometry-42.webp",
+    "images": [
+      {
+        "src": "assets/sacred-geometry-27.webp",
+        "alt": "Sacred Geometry tattoo example 1"
+      },
+      {
+        "src": "assets/sacred-geometry-5.webp",
+        "alt": "Sacred Geometry tattoo example 2"
+      },
+      {
+        "src": "assets/sacred-geometry-25.webp",
+        "alt": "Sacred Geometry tattoo example 3"
+      },
+      {
+        "src": "assets/sacred-geometry-16.webp",
+        "alt": "Sacred Geometry tattoo example 4"
+      },
+      {
+        "src": "assets/sacred-geometry-17.webp",
+        "alt": "Sacred Geometry tattoo example 5"
+      },
+      {
+        "src": "assets/sacred-geometry-33.webp",
+        "alt": "Sacred Geometry tattoo example 6"
+      },
+      {
+        "src": "assets/sacred-geometry-30.webp",
+        "alt": "Sacred Geometry tattoo example 7"
+      },
+      {
+        "src": "assets/sacred-geometry-43.webp",
+        "alt": "Sacred Geometry tattoo example 8"
+      },
+      {
+        "src": "assets/sacred-geometry-49.webp",
+        "alt": "Sacred Geometry tattoo example 9"
+      }
+    ]
+  }
+}
